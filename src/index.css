@@ -1,0 +1,5 @@
+@import "tailwindcss";
+body {
+  background-color: #572649 ; /* Cozy pink background */
+  overflow: hidden; /* Prevents scrollbars during animations */
+}

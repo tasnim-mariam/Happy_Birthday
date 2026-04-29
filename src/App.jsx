@@ -31,7 +31,7 @@ const pages = [
   {
     id: 5,
     heading: "Again Happy Birthday to the one who holds a special place in my heart!",
-    text: "Here's to many more years of laughter, support, and love baby🥹",
+    text: "Here's to many more years of laughter, support   and unforgettable memories together.🎉",
     image: "/photo5.jpeg"  }
 ];
 

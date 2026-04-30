@@ -89,7 +89,7 @@ export default function App() {
               </div>
               <div>
               
-                <h1 className="text-3xl font-bold mb-2 text-pink-900">Happy Birthday Samanjaaaaaa🥳</h1>
+                <h1 className="text-3xl font-bold mb-2 text-pink-900">Happy Birthday Dostooooooo🥳</h1>
                 <p className="text-pink-800 font-medium">Your presence makes my days brighter & life Beautiful ❤️</p>
               </div>
               <button
